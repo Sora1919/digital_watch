@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+}
+
+#watch_container{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color: #121212;
+}
+
+
+#clock{
+    color: #E0E0E0;
+    font-size: 5rem;
+    font-weight: bold;
+
+}
+
+
